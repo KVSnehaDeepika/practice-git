@@ -12,7 +12,7 @@ return a+b;
 }
 public int Sub(int x,int y)
 {
-return a-b;
+return x-y;
 }
 }
 class CalciDriver
